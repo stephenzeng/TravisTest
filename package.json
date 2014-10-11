@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "description": "test",
+    "license": "MIT",
+    "devDependencies": {
+        "karma": "~0.10",
+        "karma-cli": "0.0.4"
+    },
+    "repository":"https://github.com/stephenzeng/TravisTest.git"
+}
